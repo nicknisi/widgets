@@ -1,0 +1,14 @@
+.root {
+	composes: root from './button.m.css';
+}
+
+.pressed::before {
+}
+
+.popup { }
+
+.addon { }
+
+.disabled,
+.disabled:hover {
+}

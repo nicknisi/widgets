@@ -293,7 +293,7 @@ export const config = {
 					filename: 'CardWithMediaContent'
 				},
 				{
-					title: 'Combined Card',
+					title: 'Card with header, content, media, and actions',
 					module: CardCombined,
 					filename: 'CardCombined'
 				}
